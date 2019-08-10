@@ -7,7 +7,7 @@ export default class Services extends Component {
             {
                 icon:<FaCoffee/>,
                 title:"Free Coffee",
-                info:'Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. '
+                info:'Free coffee will be served in most of the hotels in our website . You will the coffee at the morning by home service.'
             },
             {
                 icon:<FaCcMastercard/>,
